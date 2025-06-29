@@ -1,2 +1,3 @@
 This is test file.
 want to commit via visual studio code
+3rd commit test via VS terminal
