@@ -3,3 +3,4 @@ want to commit via visual studio code
 3rd commit test via VS terminal
 4th test via UI VS
 test6
+want to check VS GUI commit message 
